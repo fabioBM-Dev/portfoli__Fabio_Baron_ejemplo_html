@@ -15,4 +15,4 @@ Ejercicio de creación de paginas web, usando como ejemplo el protafolio que se 
 
 ###Fabio Barón
 
-### (Linkedin: https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/fabio-baron-3347b2162/)
+### (Linkedin: https://www.linkedin.com/in/fabio-baron-3347b2162/)
